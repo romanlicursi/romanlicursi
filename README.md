@@ -36,5 +36,5 @@ SQL · Python · Tableau · Salesforce · Automation
 ---
 
 ## 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/roman-licursi-3aab2a160)  
-- Email: romanlicursi@gmail.com  
+  [LinkedIn](https://www.linkedin.com/in/roman-licursi-3aab2a160) · romanlicursi@gmail.com
+
