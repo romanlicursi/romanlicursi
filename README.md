@@ -1,6 +1,6 @@
 # Hi, I'm Roman 👋  
 
-🎯 **RevOps & GTM Analytics | CS Senior @ UW–Madison**  
+🎯 **RevOps & GTM Analytics | CS Junior @ UW–Madison**  
 SQL · Python · Tableau · Salesforce · Automation  
 
 ---
