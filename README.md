@@ -28,10 +28,11 @@ SQL · Python · Tableau · Salesforce · Automation
 ---
 
 ## 📊 My Stack
-- **Core Analytics (SQL, Python, Tableau)** → Revenue & churn modeling  
-- **Automation (Zapier, Make)** → Workflow scaling  
-- **CRM/GTM (Salesforce, HubSpot)** → Funnel + pipeline data  
-- **Metrics Expertise** → CAC/LTV, Churn, Funnel Health, Payback  
+- Core Analytics (SQL, Python, Tableau) → Revenue and churn modeling  
+- Data Quality and Pipelines (DuckDB, SQL transformations) → Clean, reliable analytics  
+- Automation (Zapier, Make, Python scripts) → Scaled GTM workflows  
+- CRM and GTM Systems (Salesforce, HubSpot, Clay) → Funnel and pipeline data  
+- Metrics Expertise → CAC, LTV, churn, funnel health, payback   
 
 ---
 
