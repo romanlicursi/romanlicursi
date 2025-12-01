@@ -21,9 +21,9 @@ SQL · Python · Tableau · Salesforce · Automation
    **Improved MQL→SQL conversion by 12% | Routed 85% high-value leads within 60s | Python · CRM API · Slack**  
    *Designed to prioritize and route high-value leads instantly for GTM teams*  
 
-- [Marketing ROI Tracker](#)  
-   **Cut low-ROI spend by 18% | Boosted ROAS from 2.8 → 3.3 | SQL · Tableau · Excel**  
-   *Helped marketing leaders allocate budget more effectively across campaigns*  
+- [Ecommerce Data Pipeline](https://github.com/romanlicursi/ecommerce-data-pipeline)  
+   **Processed 50,000 orders and resolved 7,984 data issues across completeness, validity, and consistency checks | Python · SQL · DuckDB**  
+   *Automated ingestion, validation, cleaning, and transformations to produce analytics-ready tables in under 30 seconds*  
 
 ---
 
