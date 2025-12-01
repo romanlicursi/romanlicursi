@@ -24,7 +24,7 @@ SQL · Python · Tableau · Salesforce · Automation
    *Designed to prioritize and route high-value leads instantly for GTM teams*  
 
 - [Ecommerce Data Pipeline](https://github.com/romanlicursi/ecommerce-data-pipeline)  
-   **Processed 50,000 orders and resolved 7,984 data issues across completeness, validity, and consistency checks | Python · SQL · DuckDB**  
+   **Processed 50,000 orders and resolved 7,984 issues through automated data quality checks | Python · SQL · DuckDB**  
    *Automated ingestion, validation, cleaning, and transformations to produce analytics-ready tables in under 30 seconds*  
 
 ---
