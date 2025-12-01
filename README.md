@@ -7,8 +7,10 @@ SQL · Python · Tableau · Salesforce · Automation
 
 ## 🚀 What I Do
 - Build **dashboards** that uncover revenue levers (funnel health, churn, CAC/payback)  
-- Automate **GTM workflows** (Python, Zapier, SQL) to speed up operations  
+- Create **data pipelines** and quality checks that keep metrics accurate  
+- Automate **GTM workflows** (Python, Zapier, Make, Slack) to speed up operations  
 - Deliver **case-study projects** showing SaaS metrics that drive measurable impact  
+
 
 ---
 
