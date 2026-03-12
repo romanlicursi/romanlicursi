@@ -1,43 +1,38 @@
-# Hi, I'm Roman 👋  
+# Hi, I'm Roman
 
-🎯 **RevOps & GTM Analytics | CS Junior @ UW–Madison**  
-SQL · Python · Tableau · Salesforce · Automation  
+**CS Junior @ UW–Madison** building the systems that make revenue teams run.
 
----
-
-## 🚀 What I Do
-- Build **dashboards** that uncover revenue levers (funnel health, churn, CAC/payback)  
-- Create **data pipelines** and quality checks that keep metrics accurate  
-- Automate **GTM workflows** (Python, Zapier, Make, Slack) to speed up operations  
-- Deliver **case-study projects** showing SaaS metrics that drive measurable impact  
-
+I'm drawn to the intersection of automation, data, and GTM — the layer where technical infrastructure directly drives business outcomes. Most of my projects start with a real ops problem and end with something that runs on its own.
 
 ---
 
-## 📂 Featured Projects
-- [NimbusHR RevOps Dashboard](https://github.com/romanlicursi/nimbushr-revops-dashboard)  
-   **Flagged 23% at-risk churn → enabled 15% projected reduction | SQL · Python · Tableau**  
-   *Built to give SaaS execs clear visibility into churn trends & CAC payback*  
+## Featured Projects
 
-- [Lead Scoring Automation](https://github.com/romanlicursi/lead-scoring-automation)  
-   **Improved MQL→SQL conversion by 12% | Routed 85% high-value leads within 60s | Python · CRM API · Slack**  
-   *Designed to prioritize and route high-value leads instantly for GTM teams*  
+**[Career OS](https://github.com/romanlicursi/career-os)** — Autonomous GTM Intelligence Pipeline
+`Python · Apify · Claude AI · GitHub Actions · REST APIs`
+A 6-layer system that scrapes live LinkedIn job postings and professional profiles, processes them through a staged AI pipeline, and delivers personalized outreach drafts, contact dossiers, and sprint plans — fully automated on a weekly cadence. Also synthesizes RevOps and GTM job market data to surface skill trends, hiring patterns, and career path intelligence.
 
-- [Ecommerce Data Pipeline](https://github.com/romanlicursi/ecommerce-data-pipeline)  
-   **Processed 50,000 orders and resolved 7,984 issues through automated data quality checks | Python · SQL · DuckDB**  
-   *Automated ingestion, validation, cleaning, and transformations to produce analytics-ready tables in under 30 seconds*  
+**[Lead Scoring Automation](https://github.com/romanlicursi/lead-scoring-automation)**
+`Python · scikit-learn · SQL · Webhooks`
+End-to-end lead scoring pipeline combining rule-based scoring with ML logistic regression. Projected 12% MQL→SQL conversion lift with webhook-triggered sales notifications. Processes behavioral signals, CTA interactions, and firmographic data.
 
----
+**[B2B SaaS RevOps Dashboard & Churn Model](https://github.com/romanlicursi/nimbushr-revops-dashboard)**
+`SQL · Python · Tableau`
+Full-stack RevOps analytics suite: funnel visibility (Lead→MQL→SQL→Customer), CAC/payback by channel, and churn risk scoring. Model flagged $131K in saveable MRR (AUC: 0.793) and identified highest-CAC channels to drive budget reallocation.
 
-## 📊 My Stack
-- Core Analytics (SQL, Python, Tableau) → Revenue and churn modeling  
-- Data Quality and Pipelines (DuckDB, SQL transformations) → Clean, reliable analytics  
-- Automation (Zapier, Make, Python scripts) → Scaled GTM workflows  
-- CRM and GTM Systems (Salesforce, HubSpot, Clay) → Funnel and pipeline data  
-- Metrics Expertise → CAC, LTV, churn, funnel health, payback   
+**[E-Commerce Data Quality Pipeline](https://github.com/romanlicursi/ecommerce-data-pipeline)**
+`Python · SQL · DuckDB`
+Multi-stage ETL pipeline processing 50,000 orders. Resolved 7,984 data quality issues and produced 5 analytics-ready tables via CTEs and window functions. Architected for AWS production deployment.
 
 ---
 
-## 📫 Let’s Connect
-  [LinkedIn](https://www.linkedin.com/in/roman-licursi-3aab2a160) · romanlicursi@gmail.com
+## Stack
 
+**Automation & Workflow** — Clay · Zapier · Make · GitHub Actions · Apify
+**Data & Analytics** — SQL · Python · Tableau · DuckDB · ETL
+**CRM & GTM** — HubSpot · Salesforce · Apollo · Outbound sequencing
+**Integration** — REST APIs · Webhooks · Pipeline orchestration
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/roman-licursi-3aab2a160) · romanlicursi@gmail.com
