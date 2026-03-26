@@ -8,6 +8,10 @@ I'm drawn to the intersection of automation, data, and GTM — the layer where t
 
 ## Featured Projects
 
+**[Salesforce Lead Routing & Scoring Pipeline](https://github.com/romanlicursi/salesforce-lead-routing-pipeline)**
+`Python · simple_salesforce · scikit-learn · Salesforce Flows`
+End-to-end Salesforce RevOps automation: Python ML pipeline scores 100+ leads via logistic regression, syncs scores to Salesforce CRM via REST API, and triggers native Record-Triggered Flows for Hot/Warm/Cold tiering, SDR task creation, and queue assignment. Full CRM integration loop with zero manual steps.
+
 **[Career OS](https://github.com/romanlicursi/career-os)** — Autonomous GTM Intelligence Pipeline
 `Python · Apify · Claude AI · GitHub Actions · REST APIs`
 A 6-layer system that scrapes live LinkedIn job postings and professional profiles, processes them through a staged AI pipeline, and delivers personalized outreach drafts, contact dossiers, and sprint plans — fully automated on a weekly cadence. Also synthesizes RevOps and GTM job market data to surface skill trends, hiring patterns, and career path intelligence.
@@ -28,9 +32,9 @@ Multi-stage ETL pipeline processing 50,000 orders. Resolved 7,984 data quality i
 
 ## Stack
 
-**Automation & Workflow** — Clay · Zapier · Make · GitHub Actions · Apify
+**Automation & Workflow** — Clay · Zapier · Make · GitHub Actions · Apify · Salesforce Flows · simple_salesforce
 **Data & Analytics** — SQL · Python · Tableau · DuckDB · ETL
-**CRM & GTM** — HubSpot · Salesforce · Apollo · Outbound sequencing
+**CRM & GTM** — Salesforce · HubSpot · Apollo · Outbound sequencing
 **Integration** — REST APIs · Webhooks · Pipeline orchestration
 
 ---
