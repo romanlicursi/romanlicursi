@@ -9,7 +9,7 @@ I'm drawn to the intersection of automation, data, and GTM — the layer where t
 ## Featured Projects
 
 **[Salesforce Lead Routing & Scoring Pipeline](https://github.com/romanlicursi/salesforce-lead-routing-pipeline)**
-`Python · simple_salesforce · scikit-learn · Salesforce Flows`
+`Python · Salesforce API · scikit-learn · Salesforce Flows`
 End-to-end Salesforce RevOps automation: Python ML pipeline scores 100+ leads via logistic regression, syncs scores to Salesforce CRM via REST API, and triggers native Record-Triggered Flows for Hot/Warm/Cold tiering, SDR task creation, and queue assignment. Full CRM integration loop with zero manual steps.
 
 **[Career OS](https://github.com/romanlicursi/career-os)** — Autonomous GTM Intelligence Pipeline
@@ -32,7 +32,7 @@ Multi-stage ETL pipeline processing 50,000 orders. Resolved 7,984 data quality i
 
 ## Stack
 
-**Automation & Workflow** — Clay · Zapier · Make · GitHub Actions · Apify · Salesforce Flows · simple_salesforce
+**Automation & Workflow** — Clay · Zapier · Make · GitHub Actions · Apify · Salesforce Flows
 **Data & Analytics** — SQL · Python · Tableau · DuckDB · ETL
 **CRM & GTM** — Salesforce · HubSpot · Apollo · Outbound sequencing
 **Integration** — REST APIs · Webhooks · Pipeline orchestration
