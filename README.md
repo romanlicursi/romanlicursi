@@ -21,19 +21,19 @@ A 6-layer system that scrapes live LinkedIn job postings and professional profil
 End-to-end lead scoring pipeline combining rule-based scoring with ML logistic regression. Projected 12% MQL→SQL conversion lift with webhook-triggered sales notifications. Processes behavioral signals, CTA interactions, and firmographic data.
 
 **[B2B SaaS RevOps Dashboard & Churn Model](https://github.com/romanlicursi/nimbushr-revops-dashboard)**
-`SQL · Python · Tableau`
-Full-stack RevOps analytics suite: funnel visibility (Lead→MQL→SQL→Customer), CAC/payback by channel, and churn risk scoring. Model flagged $131K in saveable MRR (AUC: 0.793) and identified highest-CAC channels to drive budget reallocation.
+`SQL · Python · dbt · Snowflake · Tableau`
+Full-stack RevOps analytics suite: funnel visibility (Lead→MQL→SQL→Customer), CAC/payback by channel, and churn risk scoring. Model flagged $131K in saveable MRR (AUC: 0.793) and identified highest-CAC channels to drive budget reallocation. dbt transformation layer with Snowflake target.
 
 **[E-Commerce Data Quality Pipeline](https://github.com/romanlicursi/ecommerce-data-pipeline)**
-`Python · SQL · DuckDB`
-Multi-stage ETL pipeline processing 50,000 orders. Resolved 7,984 data quality issues and produced 5 analytics-ready tables via CTEs and window functions. Architected for AWS production deployment.
+`Python · SQL · dbt · DuckDB · Snowflake`
+Multi-stage ETL pipeline processing 50,000 orders. Resolved 7,984 data quality issues and produced 5 analytics-ready tables via dbt models (staging → marts). DuckDB for local dev, Snowflake as production target. Architected for AWS deployment.
 
 ---
 
 ## Stack
 
 **Automation & Workflow** — Clay · Zapier · Make · GitHub Actions · Apify · Salesforce Flows
-**Data & Analytics** — SQL · Python · Tableau · DuckDB · ETL
+**Data & Analytics** — SQL · Python · dbt · Snowflake · Tableau · DuckDB · ETL
 **CRM & GTM** — Salesforce · HubSpot · Apollo · Outbound sequencing
 **Integration** — REST APIs · Webhooks · Pipeline orchestration
 
