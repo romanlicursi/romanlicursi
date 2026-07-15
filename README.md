@@ -1,42 +1,29 @@
-# Hi, I'm Roman
+# Roman Licursi
 
-**CS Senior @ UW–Madison** building the systems that make revenue teams run.
+### GTM engineer building production AI agents, revenue systems, and automation
 
-I'm drawn to the intersection of automation, data, and GTM — the layer where technical infrastructure directly drives business outcomes. Most of my projects start with a real ops problem and end with something that runs on its own.
+I am a computer science senior at UW-Madison working at the intersection of applied AI, RevOps, and software engineering. At Together AI, I have shipped a production GTM answer engine across six live data lanes, cut compound-query latency 26x, and built the eval and safety systems used to test it before release.
 
----
+I build systems that turn fragmented GTM data into reliable action: agentic workflows, Salesforce automation, enrichment and intent pipelines, lead scoring, internal tools, and the evaluation infrastructure that keeps AI outputs grounded.
 
-## Featured Projects
+## Selected public work
 
-**[Salesforce Lead Routing & Scoring Pipeline](https://github.com/romanlicursi/salesforce-lead-routing-pipeline)**
-`Python · Salesforce API · scikit-learn · Salesforce Flows`
-End-to-end Salesforce RevOps automation: Python ML pipeline scores 100+ leads via logistic regression, syncs scores to Salesforce CRM via REST API, and triggers native Record-Triggered Flows for Hot/Warm/Cold tiering, SDR task creation, and queue assignment. Full CRM integration loop with zero manual steps.
+| Project | What it demonstrates |
+| --- | --- |
+| **[Salesforce Lead Routing & Scoring Pipeline](https://github.com/romanlicursi/salesforce-lead-routing-pipeline)** | An end-to-end RevOps loop that scores 100 leads in Python, bulk-syncs results to Salesforce, and triggers native Flows for tiering, queue assignment, and SDR tasks. |
+| **[Career OS](https://github.com/romanlicursi/career-os-public)** | A six-layer AI workflow that converts live job-market data into structured research, skill-gap analysis, sprint plans, and human-reviewed outreach drafts on an automated cadence. |
+| **[Agent Telegram Notifier](https://github.com/romanlicursi/agent-telegram-runner)** | A local-first notification layer for Codex and Claude Code runs with secret redaction, status detection, and preserved desktop notifications. |
+| **[Research Podcast Factory](https://github.com/romanlicursi/research-podcast-factory)** | A local-first workflow that turns a research question into a source-grounded NotebookLM podcast and a structured Spotify episode. |
 
-**[Career OS](https://github.com/romanlicursi/career-os-public)** — Autonomous GTM Intelligence Pipeline
-`Python · Apify · Claude AI · GitHub Actions · REST APIs`
-A 6-layer system that scrapes live LinkedIn job postings and professional profiles, processes them through a staged AI pipeline, and delivers personalized outreach drafts, contact dossiers, and sprint plans — fully automated on a weekly cadence. Also synthesizes RevOps and GTM job market data to surface skill trends, hiring patterns, and career path intelligence.
+## Core toolkit
 
-**[Lead Scoring Automation](https://github.com/romanlicursi/lead-scoring-automation)**
-`Python · scikit-learn · SQL · Webhooks`
-End-to-end lead scoring pipeline combining rule-based scoring with ML logistic regression. Projected 12% MQL→SQL conversion lift with webhook-triggered sales notifications. Processes behavioral signals, CTA interactions, and firmographic data.
+- **AI engineering:** agents, evals, RAG and retrieval, grounding, guardrails, prompt engineering, MCP, Claude Code
+- **GTM systems:** Salesforce, Clay, HubSpot, Apollo, Gong, lead scoring, enrichment, intent signals, outbound infrastructure
+- **Engineering and data:** Python, TypeScript, SQL, Next.js, Node.js, Supabase, Snowflake, Hex, dbt, Redis, Vercel
+- **Integration:** REST APIs, webhooks, OAuth, GitHub Actions, Zapier, Make
 
-**[B2B SaaS RevOps Dashboard & Churn Model](https://github.com/romanlicursi/nimbushr-revops-dashboard)**
-`SQL · Python · dbt · Snowflake · Tableau`
-Full-stack RevOps analytics suite: funnel visibility (Lead→MQL→SQL→Customer), CAC/payback by channel, and churn risk scoring. Model flagged $131K in saveable MRR (AUC: 0.793) and identified highest-CAC channels to drive budget reallocation. dbt transformation layer with Snowflake target.
+## Current focus
 
-**[E-Commerce Data Quality Pipeline](https://github.com/romanlicursi/ecommerce-data-pipeline)**
-`Python · SQL · dbt · DuckDB · Snowflake`
-Multi-stage ETL pipeline processing 50,000 orders. Resolved 7,984 data quality issues and produced 5 analytics-ready tables via dbt models (staging → marts). DuckDB for local dev, Snowflake as production target. Architected for AWS deployment.
+I am interested in GTM Engineering and Applied AI roles where the work is to build production systems, not just configure tools. The throughline in my work is measurable reliability: instrument the workflow, test the failure modes, and automate only what can be verified.
 
----
-
-## Stack
-
-**Automation & Workflow** — Clay · Zapier · Make · GitHub Actions · Apify · Salesforce Flows
-**Data & Analytics** — SQL · Python · dbt · Snowflake · Tableau · DuckDB · ETL
-**CRM & GTM** — Salesforce · HubSpot · Apollo · Outbound sequencing
-**Integration** — REST APIs · Webhooks · Pipeline orchestration
-
----
-
-[LinkedIn](https://www.linkedin.com/in/roman-licursi-3aab2a160) · romanlicursi@gmail.com
+[Portfolio](https://romanlicursi.github.io/) | [LinkedIn](https://www.linkedin.com/in/roman-licursi-3aab2a160/) | [Email](mailto:romanlicursi@gmail.com)
