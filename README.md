@@ -1,6 +1,6 @@
 # Hi, I'm Roman
 
-**CS Junior @ UW–Madison** building the systems that make revenue teams run.
+**CS Senior @ UW–Madison** building the systems that make revenue teams run.
 
 I'm drawn to the intersection of automation, data, and GTM — the layer where technical infrastructure directly drives business outcomes. Most of my projects start with a real ops problem and end with something that runs on its own.
 
